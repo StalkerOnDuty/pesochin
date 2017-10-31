@@ -10,25 +10,25 @@
 	<NFCPoints>
 		<Point>
 			<UID>835190d1</UID>
-			<Name>Точка 1</Name>
+			<Name>Point 1</Name>
 			<DelayBeforeActivation>00:00:05</DelayBeforeActivation>
 			<ReadTime>00:02:30</ReadTime>
 		</Point>
 		<Point>
 			<UID>a34e90d1</UID>
-			<Name>Точка 2</Name>
+			<Name>Point 2</Name>
 			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
 			<ReadTime>00:03:30</ReadTime>
 		</Point>
 		<Point>
 			<UID>3bb169ed</UID>
-			<Name>Точка 3</Name>
+			<Name>Point 3</Name>
 			<DelayBeforeActivation>00:04:00</DelayBeforeActivation>
 			<ReadTime>00:05:30</ReadTime>
 		</Point>
 		<Point>
 			<UID>3bc98d1</UID>
-			<Name>Точка 4</Name>
+			<Name>Point 4</Name>
 			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
 			<ReadTime>00:03:00</ReadTime>
 		</Point>
